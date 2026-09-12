@@ -10,8 +10,9 @@ sidebar:
 
 ![ratcn demo](../../../assets/ratcn.gif)
 
-Ratcn provides themeable buttons, lists, tabs, dialogs, and other components for Ratatui. Use the components directly from the crate, or copy and customize their source with the
-`cargo ratcn add` command.
+Ratcn provides themeable buttons, lists, tabs, dialogs, and other components for Ratatui. Use the
+components directly from the crate, or copy and customize their source with the `cargo ratcn add`
+command.
 
 An optional runtime handles focus, hover, and keyboard and mouse event routing. Your application
 keeps full control of its state and event loop.
